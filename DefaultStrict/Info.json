@@ -1,0 +1,9 @@
+{
+  "Id": "DefaultStrict",
+  "DisplayName": "DefaultStrict",
+  "Author": "HYONSU",
+  "Version": "0.0.1",
+  "AssemblyName": "DefaultStrict.dll",
+  "EntryMethod": "DefaultStrict.Main.Load",
+  "Repository": ""
+}
